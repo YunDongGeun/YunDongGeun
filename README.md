@@ -1,7 +1,7 @@
  
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&height=290&color=gradient&text=Hello!%20&reversal=false&fontAlign=50&fontAlignY=40&animation=twinkling&strokeWidth=0&fontColor=06142e&desc=I'm%20DG"/>
-</p>
+</p> 
 
 <!--
 **YunDongGeun/YunDongGeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
