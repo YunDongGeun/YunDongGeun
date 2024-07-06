@@ -22,11 +22,12 @@ Here are some ideas to get you started:
 ---
 >[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehd666)](https://solved.ac/ehd666)
 >
+>
+>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunDongGeun&hide=contribs,prs&show_icons=true&theme=테마)
+
 <!--
 >[![GitHub Streak](https://streak-stats.demolab.com/?user=YunDongGeun&theme=dark)](https://git.io/streak-stats)
 -->
->
->![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunDongGeun&hide=contribs,prs&show_icons=true&theme=테마)
 
 ### **Deleop Environment**
 ---
